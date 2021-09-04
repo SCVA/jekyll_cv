@@ -21,14 +21,14 @@ facebook_username: sebastiancamilo.vanegasayala
 instagram_username: sebasvanegas14
 linkedin_username: sebastian-camilo-vanegas-ayala-6915b678
 pinterest_username: scva9708
-youtube_username: UCDhq5m3OTUP5AEfDDNu_fTg
+youtube_username: channel/UCDhq5m3OTUP5AEfDDNu_fTg
 orcid_username: 0000-0002-8610-9765
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: CvLAC
+  icon: fas fa-user
+  url: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000155010
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
