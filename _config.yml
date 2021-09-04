@@ -46,7 +46,6 @@ content:
     content:
       - layout: left
         title: Universidad Distrital Francisco José de Caldas
-        icon: images/ud.png
         caption: 2015 - 2020
         sub_title: Ingeniero de Sistemas
         quote: >
