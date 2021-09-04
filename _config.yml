@@ -21,7 +21,6 @@ facebook_username: sebastiancamilo.vanegasayala
 instagram_username: sebasvanegas14
 linkedin_username: sebastian-camilo-vanegas-ayala-6915b678
 pinterest_username: scva9708
-youtube_username: channel/UCDhq5m3OTUP5AEfDDNu_fTg
 orcid_username: 0000-0002-8610-9765
 
 # Additional icon links
@@ -29,9 +28,6 @@ additional_links:
 - title: CvLAC
   icon: fas fa-user
   url: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000155010
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -40,8 +36,8 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: Acerca de mi
+about_profile_image: https://media-exp1.licdn.com/dms/image/C4E03AQGM6b1Hc-OzLw/profile-displayphoto-shrink_200_200/0/1590683795213?e=1635984000&v=beta&t=CJfIpBZJfcLWBhZ-EFZtofuT2XUGU1OjSXzC0jb5uks
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
