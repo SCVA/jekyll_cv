@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: SCVA/jekyll_cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -15,19 +15,14 @@ website: https://github.com/SCVA/jekyll_cv
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+twitter_username: scva97
+github_username:  SCVA
+facebook_username: sebastiancamilo.vanegasayala
+instagram_username: sebasvanegas14
+linkedin_username: sebastian-camilo-vanegas-ayala-6915b678
+pinterest_username: scva9708
+youtube_username: UCDhq5m3OTUP5AEfDDNu_fTg
+orcid_username: 0000-0002-8610-9765
 
 # Additional icon links
 additional_links:
