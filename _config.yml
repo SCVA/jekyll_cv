@@ -56,7 +56,7 @@ content:
           Titulado mediante trabajo de grado de carácter meritorio acerca de la predicción de humedad y temperatura en invernaderos usando métodos de optimización para conjuntos difusos.
         link: https://repository.udistrital.edu.co/handle/11349/25654
         link_text: Tesis
-      - layout: right
+      - layout: left
         title: SENA - Servicio Nacional de Aprendizaje
         caption: 2013-2014
         sub_title: Técnico en contabilización de operaciones comerciales y financieras
@@ -68,7 +68,7 @@ content:
   - title: Experiencia Laboral # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Universidad Distrital Francisco José de Caldas
         link: https://www.udistrital.edu.co/inicio
         # link_text: boringcompany.com
@@ -89,36 +89,30 @@ content:
         description: | # this will include new lines to allow paragraphs
           Apoyo en actividades de mantenimiento de equipos tecnológicos, manejo de archivos, diseño y aplicación de software y en el rol de Webmaster.
               
-  - title: Projects # Title for the section
+  - title: Artículos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        title: Environment humidity and temperature prediction in agriculture using Mamdani inference systems
+        link: http://ijece.iaescore.com/index.php/IJECE/article/view/24000
+        link_text: Enlace
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This paper presents the results of a humidity and temperature prediction model in the environment for agriculture, using diffuse sets and optimizing their parameters by heuristic methods, such as genetic algorithms, and exact methods such as Quasi-Newton. It has been identified that non-specialized users could have difficulties in understanding the system dynamics and the behavior of variables over time. The aim of this research is obtain models with a high level of interpretability and accuracy that allows predicting the temperature and humidity values for the environment. The use of fuzzy logic to present a solution has great advantages as this system is highly rated for interpretability. Furthermore, by relating the obtained values for environment humidity and temperature to qualitative categories as high, medium or low, it allows non-specialized users to have a better understanding of the system dynamics. Two optimization techniques are applied to two different diffuse sets that allow the prediction of the humidity and temperature. It is found that the best implementation involves a Mamdani fuzzy inference system optimized with Quasi-Newton algorithm that uses a set of initial values attained through a previous optimization process with a genetic algorithm.
+      - layout: top-middle
+        title: Gestión del ambiente del invernadero mediante un microcontrolador electrónico para el cultivo de vegetales
+        link: https://www.revistaespacios.com/a20v41n19/20411901.html
+        link_text: Enlace
+        description: | # this will include new lines to allow paragraphs
+          This document presents the results of a small-scale prototype of a greenhouse supported by electronic devices and made with recyclable materials. The main objective of the proposed model is to establish a prototype of a controlled environment through the use of sensors and actuators managed by a microcontroller to regulate weather conditions such as temperature and both environmental and soil moisture, applied to pilot crops of common radish and kidney beans. The results obtained in conventional sowing and using the prototype implemented are described and compared.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+  - title: Software
+    layout: list
+    content:
+      - layout: top-middle
+        title: PREDHYT
+        description: | # this will include new lines to allow paragraphs
+          Aplicación para predicción de humedad y temperatura en ambiente e invernaderos usando métodos de optimización para conjuntos difusos. Se desarrollan 4 propuestas de tipo sugeno optimizadas por el método heurístico de algoritmos genéticos y el método exacto cuasi-newton. Presenta la predicción de manera gráfica acompañada de la interpretación dada a la misma, en términos cualitativos para fácil uso por el usuario.
+          ![Visual](images/software "Visual")
 
 # Footer
 footer_show_references: true
