@@ -45,10 +45,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Universidad Distrital Francisco José de Caldas
+        title: Universidad Distrital Francisco José de Caldas ![UD](images/ud.pngg "UD")
         caption: 2015 - 2020
         sub_title: Ingeniero de Sistemas
-        ![UD](images/ud.pngg "UD")
         quote: >
           La Universidad Distrital Francisco José de Caldas es una universidad pública colombiana. Su nombre es honor a Francisco José de Caldas, prócer de la independencia de Colombia.
         description: | # this will include new lines to allow paragraphs          
@@ -74,7 +73,6 @@ content:
         link: https://www.udistrital.edu.co/inicio
         # link_text: boringcompany.com
         sub_title: Ingeniero de Sistemas - CPS
-        ![UD](images/ud.pngg "UD")
         caption: Agosto 2020 - Presente
         quote: >
           Contribuir a que la Universidad sea factor de desarrollo espiritual y material del Distrito Capital de Bogotá.
