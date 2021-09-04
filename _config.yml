@@ -56,7 +56,7 @@ content:
           Titulado mediante trabajo de grado de carácter meritorio acerca de la predicción de humedad y temperatura en invernaderos usando métodos de optimización para conjuntos difusos.
         link: https://repository.udistrital.edu.co/handle/11349/25654
         link_text: Tesis
-      - layout: left
+      - layout: right
         title: SENA - Servicio Nacional de Aprendizaje
         caption: 2013-2014
         sub_title: Técnico en contabilización de operaciones comerciales y financieras
@@ -78,7 +78,17 @@ content:
           Contribuir a que la Universidad sea factor de desarrollo espiritual y material del Distrito Capital de Bogotá.
         description: | # this will include new lines to allow paragraphs
           Apoyo en actividades misionales en gestión docencia y desarrollo de contenidos web, aportando los conocimientos de la Ingeniería en el desarrollo de artefactos que contribuyan a los procesos de contratación docente, vigilancia y control de las actividades docentes y de apoyo a la decanatura de la Facultad de Ingeniería. 
-
+      - layout: right
+        title: CAFÉ Y EQUIPOS LTDA.
+        link: http://www.cafeyequiposcolombia.com/
+        # link_text: boringcompany.com
+        sub_title: Asesor de Sistemas
+        caption: 2017 - 2018
+        quote: >
+          Somos una empresa dedicada a la investigación del café y al desarrollo y fabricación de equipos para la industria del café desde hace más de 20 años.
+        description: | # this will include new lines to allow paragraphs
+          Apoyo en actividades de mantenimiento de equipos tecnológicos, manejo de archivos, diseño y aplicación de software y en el rol de Webmaster.
+              
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
