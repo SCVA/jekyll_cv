@@ -112,6 +112,7 @@ content:
         title: PREDHYT
         description: | # this will include new lines to allow paragraphs
           Aplicación para predicción de humedad y temperatura en ambiente e invernaderos usando métodos de optimización para conjuntos difusos. Se desarrollan 4 propuestas de tipo sugeno optimizadas por el método heurístico de algoritmos genéticos y el método exacto cuasi-newton. Presenta la predicción de manera gráfica acompañada de la interpretación dada a la misma, en términos cualitativos para fácil uso por el usuario.
+          
           ![Visual](images/software "Visual")
 
 # Footer
